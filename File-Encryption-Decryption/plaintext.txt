@@ -1,0 +1,2 @@
+This is a secret message that needs to be encrypted.
+Only the intended recipient should be able to decrypt it.

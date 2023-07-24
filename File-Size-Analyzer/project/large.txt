@@ -1,0 +1,2 @@
+This is a large text file with 2.5 KB of content.
+It will be a bit longer than the medium-sized file.

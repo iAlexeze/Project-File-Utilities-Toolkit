@@ -1,0 +1,37 @@
+1. File Content Filter:
+Write a script that takes a filename as input and filters out lines containing a specific keyword. The script should create a new file with the filtered content and display the number of matching lines.
+
+2. File Backup:
+Write a script that takes a filename as input and creates a backup of the file by appending the current date to the filename. For example, if the input file is "data.txt," the backup file should be named "data_2023-07-01.txt" (assuming the date is July 1, 2023).
+
+3. Word Frequency Counter:
+Write a script that takes a filename as input and counts the frequency of each word in the file. The script should display the top N most frequent words along with their frequencies.
+
+4. File Size Analyzer:
+Write a script that takes a directory name as input and analyzes the file sizes in that directory. The script should display the total size of all files, the average file size, and the largest and smallest files in the directory.
+
+5. File Encryption/Decryption:
+Write a script that encrypts the contents of a file using a simple encryption algorithm (e.g., Caesar cipher) and stores the encrypted content in a new file. Then, write another script that decrypts the content back to its original form.
+
+6. File Search and Replace:
+Write a script that takes a filename, a search keyword, and a replacement word as input. The script should search for occurrences of the keyword in the file and replace them with the replacement word, then create a new file with the modified content.
+
+7. File Concatenation:
+Write a script that takes multiple filenames as input and concatenates their contents into a single output file.
+
+8. File Permissions Checker:
+Write a script that takes a filename as input and checks the permissions of the file. The script should display whether the file is readable, writable, and executable by the user, group, and others.
+
+9. File Sorting:
+Write a script that takes a filename as input and sorts the lines in the file alphabetically or numerically (depending on the content) and creates a new file with the sorted content.
+
+10. File Archiving:
+Write a script that compresses a directory and its contents into a tar or zip archive and saves it with a specific filename.
+
+These scenarios involve various file manipulation tasks, and you can customize them based on your interests and learning goals. Happy scripting!
+
+
+
+
+
+

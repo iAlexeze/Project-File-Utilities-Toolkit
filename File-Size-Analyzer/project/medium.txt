@@ -1,0 +1,2 @@
+This is a medium-sized text file with 500 bytes of content.
+It contains some additional lines to reach the desired size.
