@@ -49,8 +49,7 @@ We hope this File Utilities Toolkit empowers you in managing your files efficien
 **[Back to Top](#table-of-contents)**
 
 ## Let's Connect
-### [GitHub](github.com/ialexeze)
-### [LinkedIn](linkedin.com/in/alexeze)
-### [Twitter](twitter.com/ialexeze)
+#### [GitHub](github.com/ialexeze)  [LinkedIn](linkedin.com/in/alexeze)  [Twitter](twitter.com/ialexeze)
+
 
 
